@@ -4,10 +4,10 @@ I enjoy keeping updated with manga and trying new foods! In my free time, I also
 
 <img src="https://static.wikia.nocookie.net/vsbattles/images/e/e5/TSSDK_Rimuru_%28Slime%29.png/revision/latest?cb=20181031030246"
 alt="slime"
-style="width:200px; height: 100px;">
->I'm not a bad slime!
+style="width:100; height: 50px;">
 
-Above is the main character from one of my favorite light novels, which was animated(though the animation didn't do it justice). In the words of Rimuru, the main character: 
+Above is the main character from one of my favorite light novels, Rimuru the slime. Although the anime didn't do the manga justice, I included it because my favorite monsters are slime (which be influenced from my days playing Maplestory). In the words of Rimuru: 
+>I'm not a bad slime!
   
 
 

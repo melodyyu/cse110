@@ -45,5 +45,6 @@ Whenever I get stuck on a bug on code, like my first ever one for example:
 ``` Error: IndexOutOfBounds ```
 
 I like to think of this quote, spoken by a wise bald man from One-Punch Man: 
-> I'll leave tomorrow's problems to tomorrow's me. 
+> I'll leave tomorrow's problems to tomorrow's me.
+ 
 No I'm just ~~partly~~ kidding. 

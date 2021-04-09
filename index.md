@@ -6,6 +6,10 @@ I'm an avid (manga/light novel/webtoon) reader and enjoying trying new foods! In
 
 Above is the main character from one of my favorite light novels, Tensei Shitara Slime Datta Ken. Although the anime didn't do the manga justice, I included it because its main character is pretty cool and because my favorite monsters are slimes (which be influenced from my days playing Maplestory)! 
  
+### Case studies: 
+- COGS123: RealTalk
+- COGS120: Spaceship
+
 ## Food Corner
 I've been craving Japanese food recently and finally was able to eat nigiri this past weekend. My favorite 5 are:
 1. maguro or ootoro
